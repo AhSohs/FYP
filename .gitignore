@@ -1,0 +1,5 @@
+# Ignore all video files (too big for GitHub)
+*.mp4
+*.mov
+*.avi
+*.mkv
